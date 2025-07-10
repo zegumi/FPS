@@ -45,3 +45,10 @@ Obj/
 *.sln
 *.apk
 .vscode/
+Library/
+Temp/
+Obj/
+*.csproj
+*.sln
+*.apk
+.vscode/
