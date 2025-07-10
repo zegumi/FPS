@@ -31,3 +31,10 @@ Thumbs.db
 *.apk
 *.keystore
 .vscode/
+Library/
+Temp/
+Obj/
+*.csproj
+*.sln
+*.apk
+.vscode/
